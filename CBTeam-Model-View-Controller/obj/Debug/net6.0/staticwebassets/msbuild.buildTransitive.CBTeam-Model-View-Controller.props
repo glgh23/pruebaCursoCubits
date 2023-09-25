@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CBTeam-Model-View-Controller.props" />
+</Project>
